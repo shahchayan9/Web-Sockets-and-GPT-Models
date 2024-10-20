@@ -41,7 +41,7 @@ The HTML WebSocket client provides a browser interface where:
 - **Python 3.x** installed on your system.
 - **`websockets`** library for Python:
   ```bash
-  pip install websockets
+  pip3 install websockets
   ```
 
 ---
