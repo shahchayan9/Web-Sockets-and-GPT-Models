@@ -2,6 +2,8 @@
 
 ### Documentation - https://docs.google.com/document/d/1vFDAgmcPMCYf7tnMCGz3R4E_C3BpfbW-E1sAOYvbR0w/edit?tab=t.0#heading=h.vuqru8jv8eul
 
+> **Note**: Screenshots are added to the `screenshots` folder for reference.
+
 ## Overview
 
 This project demonstrates a WebSocket-based application that includes:
